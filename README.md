@@ -4,7 +4,7 @@
 - Bu envanter sistemi Zenity araçları kullanılarak, ürün ekleme, listeleme, güncelleme ve silme vb. işlemlerini destekleyen, kullanıcı dostu bir grafik arayüz sağlamak amacıyla tasarlanmıştır. 
 
 ## Youtube Video Linki 
-- [Envanter Sistemi Tanıtım Videosu](https://www.youtube.com/watch?v=KHBIlWConyc)
+- [Envanter Sitemi Tanıtım](https://www.youtube.com/watch?v=TCnKXvAuHoo)
 
 ## Envanter Sistemi Hakkında
 **Kullanıcı Rolleri**
