@@ -116,7 +116,7 @@
     <table>
         <td><img width=250 src="https://github.com/user-attachments/assets/8d9fa61a-7922-4f43-811b-f9c964b78e29"
   ></td>
-        <td><img width=250 src="!https://github.com/user-attachments/assets/500c77b5-c218-420a-b21e-b8624575d3e6"
+        <td><img width=250 src="https://github.com/user-attachments/assets/500c77b5-c218-420a-b21e-b8624575d3e6"
   ></td>
     </table>
   </div>
