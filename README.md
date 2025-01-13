@@ -119,4 +119,6 @@
     </table>
   </div>
 
+  ## [repo link](https://github.com/elifpazarda/zenity_envanter)
+
 
